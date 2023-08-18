@@ -1,0 +1,209 @@
+[
+    {
+        "question": "What is DHCP?",
+        "options": ["A protocol to assign IP addresses automatically", "A mail server protocol", "A network routing protocol", "A database system"],
+        "answers": [0]
+    },
+    {
+        "question": "Which tool would you use to test network connectivity?",
+        "options": ["Disk Cleanup", "Ping", "Task Manager", "Registry Editor"],
+        "answers": [1]
+    },
+    {
+        "question": "What does VPN stand for?",
+        "options": ["Virtual Private Network", "Virtual Public Node", "Validated Protocol Node", "Virtual Protocol Network"],
+        "answers": [0]
+    },
+    {
+        "question": "Which port does HTTP operate on by default?",
+        "options": ["23", "80", "443", "8080"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the main purpose of DNS?",
+        "options": ["Data Network System", "Dynamic Name Solution", "Domain Name System", "Digital Network Service"],
+        "answers": [2]
+    },
+    {
+        "question": "Which tool helps in identifying IP addresses on the network?",
+        "options": ["Nslookup", "Traceroute", "Netstat", "ARP"],
+        "answers": [0]
+    },
+    {
+        "question": "What does the 'ipconfig' command do?",
+        "options": ["Configures devices on a network", "Displays IP configuration for a machine", "Configures IP rules", "Assigns IP to a machine"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of these is an OSI layer?",
+        "options": ["Internet", "Frame", "Data Link", "Packet"],
+        "answers": [2]
+    },
+    {
+        "question": "What is Active Directory used for?",
+        "options": ["Network monitoring", "User authentication and authorization", "Traffic filtering", "Firewall"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of the following is a backup utility in Windows?",
+        "options": ["Windows Backup", "Backup Manager", "Save Point", "Backup System"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the primary purpose of an IDS?",
+        "options": ["Internet Delivery System", "Intrusion Detection System", "Internal Domain System", "Interface Design Solution"],
+        "answers": [1]
+    },
+    {
+        "question": "Which protocol operates at the transport layer of the OSI model?",
+        "options": ["UDP", "ARP", "ICMP", "IGMP"],
+        "answers": [0]
+    },
+    {
+        "question": "Which command would you use to display current connections to your computer?",
+        "options": ["Ping", "Traceroute", "Netstat", "IPConfig"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the maximum length of a UTP cable segment?",
+        "options": ["10 meters", "100 meters", "500 meters", "1000 meters"],
+        "answers": [1]
+    },
+    {
+        "question": "Which RAID level is known as disk mirroring?",
+        "options": ["RAID 0", "RAID 1", "RAID 5", "RAID 6"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the function of a router?",
+        "options": ["Filter traffic by port number", "Route traffic between networks", "Monitor traffic", "Store data packets"],
+        "answers": [1]
+    },
+    {
+        "question": "Which operating system is open-source?",
+        "options": ["Windows 10", "Mac OS", "Android", "Linux"],
+        "answers": [3]
+    },
+    {
+        "question": "In which folder are Windows logs stored by default?",
+        "options": ["C:\\System32", "C:\\Program Files", "C:\\Windows\\Logs", "C:\\Windows\\System32\\Winevt\\Logs"],
+        "answers": [3]
+    },
+    {
+        "question": "What does the 'S' in HTTPS stand for?",
+        "options": ["Server", "Secure", "Socket", "Service"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the primary purpose of a firewall?",
+        "options": ["Malware scanning", "Traffic filtering", "Load balancing", "Routing"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the default subnet mask for a class C IP address?",
+        "options": ["255.0.0.0", "255.255.0.0", "255.255.255.0", "0.0.0.0"],
+        "answers": [2]
+    },
+    {
+        "question": "Which service is used for sending emails?",
+        "options": ["SMTP", "POP3", "IMAP", "HTTP"],
+        "answers": [0]
+    },
+    {
+        "question": "Which language is used for web apps?",
+        "options": ["PHP", "Python", "Pascal", "C"],
+        "answers": [0]
+    },
+    {
+        "question": "What port does FTP operate on?",
+        "options": ["20 and 21", "80", "23", "443"],
+        "answers": [0]
+    },
+    {
+        "question": "Which of the following is not a database?",
+        "options": ["SQL", "DB2", "Oracle", "Java"],
+        "answers": [3]
+    },
+    {
+        "question": "What protocol is used by DNS name servers?",
+        "options": ["SMTP", "IMAP", "HTTP", "DNS"],
+        "answers": [3]
+    },
+    {
+        "question": "Which of these is not an operating system?",
+        "options": ["Ubuntu", "Solaris", "Android", "Oracle"],
+        "answers": [3]
+    },
+    {
+        "question": "What is the command to view all installed packages on a Debian system?",
+        "options": ["rpm -qa", "dpkg --list", "pkg show", "apt list"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of these is not a type of malware?",
+        "options": ["Virus", "Worm", "Trojan", "Router"],
+        "answers": [3]
+    },
+    {
+        "question": "In which directory can you find the system logs in Linux?",
+        "options": ["/var/logs", "/sys/logs", "/etc/logs", "/var/log"],
+        "answers": [3]
+    },
+   
+    {
+        "question": "What is the purpose of the 'chmod' command in Linux?",
+        "options": ["Change directory", "Change user permissions", "Modify files", "Change file permissions"],
+        "answers": [3]
+    },
+    {
+        "question": "Which is the correct sequence of the OSI model from the bottom layer to top?",
+        "options": ["Physical, Data Link, Network, Transport, Session, Presentation, Application", "Application, Presentation, Session, Transport, Network, Data Link, Physical", "Network, Data Link, Physical, Session, Transport, Presentation, Application", "Data Link, Physical, Network, Session, Transport, Presentation, Application"],
+        "answers": [0]
+    },
+    {
+        "question": "Which utility command would you use to view your current directory in Linux?",
+        "options": ["ls", "pwd", "dir", "cd"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of these file systems is typically used on Windows?",
+        "options": ["ext4", "FAT32", "HFS+", "btrfs"],
+        "answers": [1]
+    },
+    {
+        "question": "What command in Windows will display the IP configuration of a computer?",
+        "options": ["netconfig", "ipconfig", "showip", "ipshow"],
+        "answers": [1]
+    },
+    {
+        "question": "Which scripting language is embedded within an HTML document for web interactivity?",
+        "options": ["Python", "Java", "C#", "JavaScript"],
+        "answers": [3]
+    },
+    {
+        "question": "What does API stand for?",
+        "options": ["Application Performance Interface", "Application Program Interface", "Applied Programming Interface", "Advanced Protocol Interface"],
+        "answers": [1]
+    },
+    {
+        "question": "Which port is the default for SSH connections?",
+        "options": ["80", "23", "443", "22"],
+        "answers": [3]
+    },
+    {
+        "question": "What does the 'R' in RAID stand for?",
+        "options": ["Random", "Redundant", "Revised", "Readable"],
+        "answers": [1]
+    },
+    {
+        "question": "What does SSD stand for in terms of storage?",
+        "options": ["Secure System Drive", "Solid State Drive", "Smart System Disk", "Solid Storage Disk"],
+        "answers": [1]
+    },
+    {
+        "question": "Which command can be used in Linux to monitor system processes?",
+        "options": ["ls", "ps", "processes", "sysmon"],
+        "answers": [1]
+    }
+    ]
+    
